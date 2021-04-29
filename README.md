@@ -1,2 +1,2 @@
 # Simon-Game-Challenge
- jQuery
+jQuery practice:keydown, playSound, setTimeout, function...
